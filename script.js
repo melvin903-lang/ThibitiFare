@@ -10,7 +10,7 @@ import {
 // ---------------------------------------------------------------------------
 // Your backend's public URL (the Railway deployment). No trailing slash.
 // ---------------------------------------------------------------------------
-const API_BASE = "https://thibitifare-production.up.railway.app";
+const API_BASE = "https://thibitifare.onrender.com";
 
 let firebaseAuth = null;
 let currentUser = null;
